@@ -1,7 +1,8 @@
-### Olá! Me chamo Ana Cecília!🙋🏻‍♀️🖥️📚
+## Olá! Seja bem-vindo ao meu perfil.📚👩‍💻
 
+#### Chamo-me Ana Cecília.
 
-
+- ✨ Sobre mim:
 - 📚 Atualmente cursando o Ensino Médio.
 - 💻 Informática 2/3.
 
