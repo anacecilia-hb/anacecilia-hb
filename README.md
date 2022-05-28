@@ -1,10 +1,11 @@
 ## Olá! Seja bem-vindo ao meu perfil.📚👩‍💻
 
-#### Chamo-me Ana Cecília.
+### 🪄 Sou Ana Cecília.
 
 - ✨ Sobre mim:
 - 📚 Atualmente cursando o Ensino Médio.
 - 💻 Informática 2/3.
+- 🧮 Estudando JavaScript, Java e Bootstrap.
 
 <div align="center">
 
@@ -17,26 +18,26 @@
 
 </div>
 
-## My Skills 💻
+## Minhas habilidades💻
 
 <div>
  
 <a href="https://github.com/anacecilia-hb">
-<img align="center" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </a>
 
 <a href="https://github.com/anacecilia-hb">
-<img align="center" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</a>
-  
-<a href="https://github.com/anacecilia-hb">
-<img align="center" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </a>
   
+<a href="https://github.com/anacecilia-hb">
+<img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</a>
+  
 
 
 <a href="https://github.com/anacecilia-hb">
-<img align="center" height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+<img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
 </a>
 
 </div>
