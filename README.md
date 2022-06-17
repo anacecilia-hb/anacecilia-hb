@@ -5,7 +5,7 @@
 - ✨ Sobre mim:
 - 📚 Atualmente cursando o Ensino Médio.
 - 💻 Informática 2/3.
-- 🧮 Estudando JavaScript, Java e Bootstrap.
+- 🧮 Estudando Java e JavaScript.
 
 <div align="center">
 
