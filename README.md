@@ -1,16 +1,44 @@
-### Hi there 👋
+## Olá colega! Seja bem-vindo ao meu perfil.📚👩‍💻
 
-<!--
-**anacecilia-hb/anacecilia-hb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🪄 Sou Ana Cecília.
 
-Here are some ideas to get you started:
+- ✨ Sobre mim:
+- 📚 Atualmente cursando o Ensino Médio.
+- 💻 Informática 2/3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+ 
+<a href="https://github.com/anacecilia-hb">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacecilia-hb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ </a>
+
+
+
+</div>
+
+## Minhas habilidades💻
+
+<div>
+ 
+<a href="https://github.com/anacecilia-hb">
+<img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+</a>
+
+<a href="https://github.com/anacecilia-hb">
+<img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</a>
+  
+<a href="https://github.com/anacecilia-hb">
+<img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</a>
+  
+
+
+<a href="https://github.com/anacecilia-hb">
+<img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+</a>
+
+</div>
+
+
