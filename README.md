@@ -4,7 +4,7 @@
 
 - ✨ Sobre mim:
 - 📚 Atualmente cursando o Ensino Médio.
-- 💻 Informática 2/3.
+- 💻 Informática 3/3.
 
 <div align="center">
 
