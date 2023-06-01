@@ -33,8 +33,6 @@
 <img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </a>
   
-
-
 <a href="https://github.com/anacecilia-hb">
 <img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
 </a>
