@@ -1,8 +1,8 @@
-## Olá colega! Seja bem-vindo ao meu perfil.📚👩‍💻
+## Olá colega! Seja bem-vindo ao meu perfil 👩‍💻
 
-### 🪄 Sou Ana Cecília.
+### 😃 Sou Ana Cecília.
 
-- ✨ Sobre mim:
+ ✨ Sobre mim:
 - 📚 Atualmente cursando o Ensino Médio.
 - 💻 Informática 3/3.
 
@@ -13,14 +13,17 @@
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacecilia-hb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  -->
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacecilia-hb&show_icons=true&bg_color=fffafa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacecilia-hb&show_icons=true&theme=chartreuse-dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacecilia-hb&layout=donut&theme=chartreuse-dark"/>
+ 
  </a>
 
 
 
 </div>
 
-## Minhas habilidades💻
+## Skills🖥️💡
 
 <div>
  
