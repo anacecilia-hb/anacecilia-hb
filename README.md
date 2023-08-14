@@ -44,8 +44,7 @@
 </a>
 
 <a href="https://github.com/anacecilia-hb">
-<img align="center" height="60" widht="70" src="https://github.com/anacecilia-hb/anacecilia-hb/assets/100533912/18651b2a-93ab-44bf-b5a0-67d3536481d4
-">
+<img align="center" height="60" widht="70" src="https://www.flaticon.com/br/icone-gratis/python_1822899?term=python&page=1&position=5&origin=search&related_id=1822899">
 </a>
 
 </div>
