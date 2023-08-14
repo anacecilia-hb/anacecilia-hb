@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://github.com/anacecilia-hb">
-<img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
+<img align="center" height="60" widht="70" src="">
 </a>
 
 </div>
