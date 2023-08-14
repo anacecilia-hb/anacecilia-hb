@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://github.com/anacecilia-hb">
-<img align="center" height="60" widht="70" src="https://www.flaticon.com/br/icone-gratis/python_1822899?term=python&page=1&position=5&origin=search&related_id=1822899">
+<img align="center" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
 </a>
 
 </div>
