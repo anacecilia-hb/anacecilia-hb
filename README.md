@@ -3,8 +3,7 @@
 ### 😃 Sou Ana Cecília.
 
  ✨ Sobre mim:
-- 📚 Atualmente cursando o Ensino Médio.
-- 💻 Informática 3/3.
+- 💻 Técnica em Informática.
 
 <div align="center">
 
